@@ -55,6 +55,8 @@ public class Molten_metalworks
     {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS){
             event.accept(ModItems.BlankPattern);
+            event.accept(ModItems.Pattern_pickaxe_head_basic);
+            event.accept(ModItems.Pattern_rod_basic);
         }
     }
 

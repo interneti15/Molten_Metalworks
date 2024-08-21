@@ -1,3 +1,5 @@
 {
-  "item.molten_metalworks.blank_pattern" : "Blank pattern"
+  "item.molten_metalworks.blank_pattern" : "Blank pattern",
+  "item.molten_metalworks.pattern_rod_basic" : "Rod pattern",
+  "item.molten_metalworks.pattern_pickaxe_head_basic" : "Pickaxe head pattern"
 }
